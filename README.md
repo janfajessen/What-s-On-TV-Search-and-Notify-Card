@@ -1,5 +1,16 @@
 # What's On TV <br> Search and Notify <br> Lovelace Card
 
+<img src="https://github.com/janfajessen/Seismic-World-Earthquakes/blob/044ed6b4bbc8e33a9ed2acd8e2abb300e2e35446/seismic_world_earthquakes.png?raw=true" alt="Seismic World Earthquakes" width="200">
+
+![Version](https://img.shields.io/badge/version-1.0.0-blue?style=for-the-badge)
+![HA](https://img.shields.io/badge/Home%20Assistant-2024.1+-orange?style=for-the-badge&logo=home-assistant)
+![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
+![IoT Class](https://img.shields.io/badge/IoT%20Class-Cloud%20Polling-lightgrey?style=for-the-badge)
+[![HACS Custom](https://img.shields.io/badge/HACS-Custom-41bdf5.svg?style=for-the-badge)](https://hacs.xyz/docs/publish/start)
+![KO-FI](https://img.shields.io/badge/HACS-Custom-teal?style=for-the-badge)
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-Donate-yellow.svg?style=for-the-badge)](https://www.buymeacoffee.com/janfajessen)
+[![Patreon](https://img.shields.io/badge/Patreon-Support-red.svg?style=for-the-badge)](https://www.patreon.com/janfajessen)
+
 [![Home Assistant](https://img.shields.io/badge/Home%20Assistant-2026.2%2B-41bdf5.svg?style=for-the-badge)](https://www.home-assistant.io/)
 [![HACS Custom](https://img.shields.io/badge/HACS-Custom-41bdf5.svg?style=for-the-badge)](https://hacs.xyz/docs/publish/start)
 [![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-Donate-yellow.svg?style=for-the-badge)](https://www.buymeacoffee.com/janfajessen)
