@@ -7,14 +7,10 @@
 ![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
 ![IoT Class](https://img.shields.io/badge/IoT%20Class-Cloud%20Polling-lightgrey?style=for-the-badge)
 [![HACS Custom](https://img.shields.io/badge/HACS-Custom-41bdf5.svg?style=for-the-badge)](https://hacs.xyz/docs/publish/start)
-![KO-FI](https://img.shields.io/badge/HACS-Custom-teal?style=for-the-badge)
+![KO-FI](https://img.shields.io/badge/Ko-Fi-Custom-teal?style=for-the-badge)
 [![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-Donate-yellow.svg?style=for-the-badge)](https://www.buymeacoffee.com/janfajessen)
 [![Patreon](https://img.shields.io/badge/Patreon-Support-red.svg?style=for-the-badge)](https://www.patreon.com/janfajessen)
 
-[![Home Assistant](https://img.shields.io/badge/Home%20Assistant-2026.2%2B-41bdf5.svg?style=for-the-badge)](https://www.home-assistant.io/)
-[![HACS Custom](https://img.shields.io/badge/HACS-Custom-41bdf5.svg?style=for-the-badge)](https://hacs.xyz/docs/publish/start)
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-Donate-yellow.svg?style=for-the-badge)](https://www.buymeacoffee.com/janfajessen)
-[![Patreon](https://img.shields.io/badge/Patreon-Support-red.svg?style=for-the-badge)](https://www.patreon.com/janfajessen)
 
 A Lovelace card for searching your EPG and setting up automatic notifications when a programme appears in the guide. Works alongside the [What's On TV Integration](https://github.com/janfajessen/What-s-On-TV-Search-and-Notify-Card) and pairs perfectly with the [EPG Card](https://github.com/janfajessen/whatsontv-epg-card).
 
@@ -22,9 +18,7 @@ A Lovelace card for searching your EPG and setting up automatic notifications wh
 >
 > **Pair with:** [What's On TV — EPG Card](https://github.com/janfajessen/whatsontv-epg-card) for the full experience
 
-<img src="https://github.com/janfajessen/What-s-On-TV-Search-and-Notify-Card/blob/297b38ed5f117f3e127bd9932c1b2c2dc41d6b9f/What's%20On%20TV.png" alt="What's On TV" width="300">
-
-<img src="https://github.com/janfajessen/What-s-On-TV-Search-and-Notify-Card/blob/297b38ed5f117f3e127bd9932c1b2c2dc41d6b9f/What's%20On%20TV.png" alt="What's On TV" width="300">
+<img src="https://github.com/janfajessen/What-s-On-TV-Search-and-Notify-Card/blob/939e5c8081f6e22ade78361b7499cdf47b38e6f2/whatsontv_search_and_notify_card.png" alt="What's On TV" width="150">  <img src="https://github.com/janfajessen/What-s-On-TV-Search-and-Notify-Card/blob/939e5c8081f6e22ade78361b7499cdf47b38e6f2/whatsontv_search_and_notify_card_saved_watches.png" alt="What's On TV" width="150">
 
 <img src="https://github.com/janfajessen/What-s-On-TV-Search-and-Notify-Card/blob/297b38ed5f117f3e127bd9932c1b2c2dc41d6b9f/What's%20On%20TV.png" alt="What's On TV" width="300">
 
