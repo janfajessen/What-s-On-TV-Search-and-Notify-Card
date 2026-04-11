@@ -127,6 +127,72 @@ action:
       message: "Champions League found in the guide!"
 ```
 
+## Services
+
+### `whatson_tv.add_watch`
+
+```yaml
+action: whatson_tv.add_watch
+data:
+  keyword: "Champions"
+  notify_service: "notify.telegram_mybot"
+  hours_before: 2   # optional, default 24
+```
+
+### `whatson_tv.remove_watch`
+
+```yaml
+action: whatson_tv.remove_watch
+data:
+  watch_id: "abc12345"
+```
+
+---
+
+## Automations — Future Programme Notifications
+
+You can replicate the Notify Card watch behaviour directly in HA automations:
+
+```yaml
+alias: "EPG — Notify when Champions League appears"
+trigger:
+  - platform: template
+    value_template: >
+      {% set keyword = "champions" %}
+      {% set hours_before = 2 %}
+      {% for state in states.sensor %}
+        {% if state.attributes.channel_id is defined %}
+          {% for prog in state.attributes.programacion | default([]) %}
+            {% set start = prog.inicio | as_datetime %}
+            {% set diff_h = ((start - now()).total_seconds() / 3600) %}
+            {% if keyword in prog.titulo | lower and diff_h >= 0 and diff_h <= hours_before %}
+              true
+            {% endif %}
+          {% endfor %}
+        {% endif %}
+      {% endfor %}
+condition: []
+action:
+  - action: notify.telegram_mybot
+    data:
+      message: >
+        {% for state in states.sensor %}
+          {% if state.attributes.channel_id is defined %}
+            {% for prog in state.attributes.programacion | default([]) %}
+              {% set start = prog.inicio | as_datetime %}
+              {% set diff_h = ((start - now()).total_seconds() / 3600) %}
+              {% if "champions" in prog.titulo | lower and diff_h >= 0 and diff_h <= 2 %}
+                📺 {{ state.attributes.channel_name }} — {{ prog.titulo }}
+                🕐 {{ start | as_local | as_timestamp | timestamp_custom('%H:%M') }}
+              {% endif %}
+            {% endfor %}
+          {% endif %}
+        {% endfor %}
+```
+
+> **Tip:** Use the **Notify Card** for a simpler no-code experience — it handles watches automatically without writing automations.
+> 
+
 ---
 
 ## Configuration Options
