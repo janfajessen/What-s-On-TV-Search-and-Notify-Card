@@ -12,8 +12,7 @@
 [![Patreon](https://img.shields.io/badge/Patreon-Support-red?style=for-the-badge&logo=patreon)](https://www.patreon.com/janfajessen)
 [![GitHub Sponsors](https://img.shields.io/badge/GitHub%20Sponsors-Support-pink?style=for-the-badge&logo=githubsponsors)](https://github.com/sponsors/janfajessen)
 [![PayPal](https://img.shields.io/badge/PayPal-Donate-blue?style=for-the-badge&logo=paypal)](https://paypal.me/janfajessen)
-[![Open Collective](https://img.shields.io/badge/Open%20Collective-Support-lightblue?style=for-the-badge&logo=opencollective)](https://opencollective.com/janfajessen)
-[![Liberapay](https://img.shields.io/badge/Liberapay-Support-yellow?style=for-the-badge&logo=liberapay)](https://liberapay.com/janfajessen)
+
 
 > **🔒 This card is available exclusively to supporters.**
 > After contributing via Ko-Fi, Buy Me a Coffee or Patreon, open an issue or contact via GitHub with your username and the platform used — access to the private repository will be granted manually.
@@ -153,12 +152,16 @@ action:
 
 ## Requirements
 
-   <img src="https://github.com/janfajessen/What-s-On-TV-Search-and-Notify-Card/blob/b3645cf0af684bdde893675cb4c80660424873ba/home_assistant_logo.png" alt="Home Assistant" width="100">
-
-- Home Assistant 2024.1+
-- [What's On TV Integration](https://github.com/janfajessen/What-s-On-TV---EPG-TV-Guide) — required for sensors and watch storage
-
-<img src="https://github.com/janfajessen/What-s-On-TV-Search-and-Notify-Card/blob/297b38ed5f117f3e127bd9932c1b2c2dc41d6b9f/What's%20On%20TV.png" alt="What's On TV" width="200">
+<table border="0" cellspacing="0" cellpadding="10">
+<tr>
+<td valign="middle"><a href="https://www.home-assistant.io/"><img src="https://github.com/janfajessen/What-s-On-TV-Search-and-Notify-Card/blob/b3645cf0af684bdde893675cb4c80660424873ba/home_assistant_logo.png" alt="Home Assistant" width="60"></a></td>
+<td valign="middle"><b><a href="https://www.home-assistant.io/">Home Assistant 2024.1+</a></b></td>
+</tr>
+<tr>
+<td valign="middle"><a href="https://github.com/janfajessen/What-s-On-TV---EPG-TV-Guide"><img src="https://github.com/janfajessen/What-s-On-TV-Search-and-Notify-Card/blob/297b38ed5f117f3e127bd9932c1b2c2dc41d6b9f/What's%20On%20TV.png" alt="What's On TV" width="100"></a></td>
+<td valign="middle"><b><a href="https://github.com/janfajessen/What-s-On-TV---EPG-TV-Guide">What's On TV Integration</a></b> — required for sensors and watch storage</td>
+</tr>
+</table>
 
 ---
 
