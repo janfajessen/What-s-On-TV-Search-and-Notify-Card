@@ -153,8 +153,12 @@ action:
 
 ## Requirements
 
+   <img src="https://github.com/janfajessen/What-s-On-TV-Search-and-Notify-Card/blob/b3645cf0af684bdde893675cb4c80660424873ba/home_assistant_logo.png" alt="Home Assistant" width="100">
+
 - Home Assistant 2024.1+
 - [What's On TV Integration](https://github.com/janfajessen/What-s-On-TV---EPG-TV-Guide) — required for sensors and watch storage
+
+<img src="https://github.com/janfajessen/What-s-On-TV-Search-and-Notify-Card/blob/297b38ed5f117f3e127bd9932c1b2c2dc41d6b9f/What's%20On%20TV.png" alt="What's On TV" width="200">
 
 ---
 
