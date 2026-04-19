@@ -36,15 +36,15 @@ The keyword watch system lets you search across all configured EPG sources simul
 A worldwide EPG (Electronic Programme Guide) integration for Home Assistant. Turns any XMLTV-compatible TV guide source into HA sensors — one sensor per channel, updated automatically.
 
 > **Highly recommended companions:**
-> - 📺 [What's On TV — EPG Card](https://github.com/janfajessen/What-s-On-TV---EPG-TV-Guide) — visual TV guide card for Lovelace
+> - 📺 [What's On TV — EPG Card](https://github.com/janfajessen/What-s-On-TV---EPG-TV-Guide---Home-Assistant) — visual TV guide card for Lovelace
 
 
 > **🔒 This card is available exclusively to supporters.**
 > After contributing via Ko-Fi, Buy Me a Coffee or Patreon, open an issue or contact via GitHub with your username and the platform used — access to the private repository will be granted manually.
 
-A Lovelace card for searching your EPG and setting up automatic notifications when a programme appears in the guide. Works alongside the [What's On TV Integration](https://github.com/janfajessen/What-s-On-TV---EPG-TV-Guide) and pairs perfectly with the [EPG Card](https://github.com/janfajessen/What-s-On-TV-EPG-TV-Guide-Card).
+A Lovelace card for searching your EPG and setting up automatic notifications when a programme appears in the guide. Works alongside the [What's On TV Integration](https://github.com/janfajessen/What-s-On-TV---EPG-TV-Guide---Home-Assistant) and pairs perfectly with the [EPG Card](https://github.com/janfajessen/What-s-On-TV-EPG-TV-Guide-Card).
 
-> **Requires:** [What's On TV Integration](https://github.com/janfajessen/What-s-On-TV---EPG-TV-Guide)
+> **Requires:** [What's On TV Integration](https://github.com/janfajessen/What-s-On-TV---EPG-TV-Guide---Home-Assistant)
 >
 > **Pair with:** [What's On TV — EPG Card](https://github.com/janfajessen/What-s-On-TV-EPG-TV-Guide-Card) for the full experience
 > 
