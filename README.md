@@ -49,7 +49,7 @@ A Lovelace card for searching your EPG and setting up automatic notifications wh
 > **Pair with:** [What's On TV — EPG Card](https://github.com/janfajessen/What-s-On-TV-EPG-TV-Guide-Card) for the full experience
 > 
 <div align="center">
-<img src="https://github.com/janfajessen/What-s-On-TV-Search-and-Notify-Card/blob/939e5c8081f6e22ade78361b7499cdf47b38e6f2/whatsontv_search_and_notify_card.png" alt="What's On TV Search" width="150">  <img src="https://github.com/janfajessen/What-s-On-TV-Search-and-Notify-Card/blob/939e5c8081f6e22ade78361b7499cdf47b38e6f2/whatsontv_search_and_notify_card_saved_watches.png" alt="What's On TV Saved Watches" width="150">
+<img src="https://github.com/janfajessen/What-s-On-TV-Search-and-Notify-Card/blob/939e5c8081f6e22ade78361b7499cdf47b38e6f2/whatsontv_search_and_notify_card.png" alt="What's On TV Search" width="35%">  <img src="https://github.com/janfajessen/What-s-On-TV-Search-and-Notify-Card/blob/939e5c8081f6e22ade78361b7499cdf47b38e6f2/whatsontv_search_and_notify_card_saved_watches.png" alt="What's On TV Saved Watches" width="35%">
 </div>
 
 ---
