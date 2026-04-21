@@ -39,8 +39,7 @@ A worldwide EPG (Electronic Programme Guide) integration for Home Assistant. Tur
 > - 📺 [What's On TV — EPG Card](https://github.com/janfajessen/What-s-On-TV---EPG-TV-Guide---Home-Assistant) — visual TV guide card for Lovelace
 
 
-> **🔒 This card is available exclusively to supporters.**
-> After contributing via Ko-Fi, Buy Me a Coffee or Patreon, open an issue or contact via GitHub with your username and the platform used — access to the private repository will be granted manually.
+<!--> **🔒 This card is available exclusively to supporters.** > After contributing via Ko-Fi, Buy Me a Coffee or Patreon, open an issue or contact via GitHub with your username and the platform used — access to the private repository will be granted manually -->
 
 A Lovelace card for searching your EPG and setting up automatic notifications when a programme appears in the guide. Works alongside the [What's On TV Integration](https://github.com/janfajessen/What-s-On-TV---EPG-TV-Guide---Home-Assistant) and pairs perfectly with the [EPG Card](https://github.com/janfajessen/What-s-On-TV-EPG-TV-Guide-Card).
 
