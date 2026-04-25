@@ -29,7 +29,7 @@ The keyword watch system lets you search across all configured EPG sources simul
 - 🌍 **Documentary hunter?** Try `"Planet Earth"`, `"Cosmos"` or `"Ken Burns"` — they rerun constantly on documentary channels
 - 🏎️ **Sports in general:** `ATP1000`,`"Formula 1"`, `"La vuelta"`, `"NBA"` — works across all your configured countries simultaneously
 - 🦈 The ultimate channel surfing trap: Set `"Jaws"` — it's been airing every summer weekend since 1975 and somehow always catches you off guard
-- 🎄 Tired of missing the annual TV tradition? Set a watch for `"Home Alone"` — because it airs every Christmas on at least 12 channels simultaneously, and somehow you always miss it
+- 🎄 Tired of missing the annual TV tradition? Set a watch for `"Home Alone"` — because it airs every Christmas on at least 12 channels simultaneously, and somehow you always miss it.
 
 > The **Word** match mode finds `"Friends"` but not `"Girlfriends"` or `"Unfriendly"`. The **Contains** mode is broader. Use **Exact** only for very specific titles.
 
