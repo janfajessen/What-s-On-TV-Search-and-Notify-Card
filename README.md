@@ -202,4 +202,6 @@ Or consider supporting development!
 
 ## License
 
-Proprietary — access granted to supporters only. Redistribution or public sharing of this code is not permitted.
+Proprietary — maybe access granted to supporters only. Redistribution or public sharing of this code is not permitted.
+
+© [@janfajessen](https://github.com/janfajessen)
